@@ -1,4 +1,4 @@
-# AI-Powered 3D Building Reconstruction
+# 3D Building Reconstruction from drone footage
 
 **Drone Photogrammetry | Structure-from-Motion | Multi-View Stereo**
 
